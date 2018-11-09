@@ -3,7 +3,7 @@
 install
 
 ```
-gen install sinatra
+gem install sinatra
 ```
 
 run
